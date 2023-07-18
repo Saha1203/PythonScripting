@@ -14,7 +14,7 @@ def scope_check():
 
 days_to_units(35, "everything looks good")
 days_to_units(70, "not good")     
-days_to_units(96, "hey everyone") 
+# days_to_units(96, "hey everyone") 
 
 
 # print(f"60 days are {60* calculation_to_units} {name_of_units}")
